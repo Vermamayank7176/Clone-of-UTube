@@ -1,0 +1,35 @@
+.sidebar{
+    
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 960px;
+    margin-top: -50px;
+   
+}
+
+.homelogo{
+    margin-top: 5px;
+    margin-left: 20px;
+
+    height: 60px;
+    width: 50px;
+}
+.shortslogo{
+    margin-left: 12px;
+    margin-top: 20px;
+    height: 60px;
+    width: 60px;
+}
+.subsciptions{
+    margin-left: 0px;
+    margin-top: 10px;
+    height: 80px;
+    width: 85px;
+}
+.you{
+    margin-left: 5px;
+    margin-top: 5px;
+    height: 65px;
+    width: 85px;
+}

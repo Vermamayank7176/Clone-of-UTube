@@ -1,0 +1,39 @@
+.youtube{
+    display: flex;
+    flex-direction: column;
+    height:100%;
+    width: 100%;
+    overflow: hidden;
+}
+.sidebar{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+}
+.sb1{
+    margin-left: 0px;
+    margin-top: -40px;
+    height: auto;
+    width: 200px;
+}
+.sb2{
+    margin-left: 0px;
+    height: auto;
+    width: 200px;
+}
+.link{
+    margin-top: -360px;
+    height:100%;
+    width: 100%;
+}
+#mb1{
+    margin-top: -950px;
+    margin-left: 200px;
+    width: 87%;
+
+}
+#mb2{
+    margin-left: 200px;
+    margin-top: -20px;
+    width: 87%;
+}
